@@ -1,0 +1,77 @@
+#btn1 {
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  background: #e86339;
+  color: #fff;
+  font-size: 15px;
+}
+
+#btn2 {
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  background: #e86339;
+  color: #fff;
+  font-size: 15px;
+}
+
+#btn3 {
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  background: #e86339;
+  color: #fff;
+  font-size: 15px;
+}
+
+#btn4 {
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  background: #e86339;
+  color: #fff;
+  font-size: 15px;
+}
+
+.img-market {
+  margin: 0 auto;
+  height: 200px;
+  visibility: hidden;
+}
+
+.img-market2 {
+  margin: 0 auto;
+  height: 200px;
+  visibility: hidden;
+}
+
+.img-market3 {
+  margin: 0 auto;
+  height: 200px;
+  visibility: hidden;
+}
+
+.img-market4 {
+  margin: 0 auto;
+  height: 200px;
+  visibility: hidden;
+}
+
+.look1 {
+  visibility: visible;
+}
+
+.look2 {
+  visibility: visible;
+}
+
+.look3 {
+  visibility: visible;
+}
+
+.look4 {
+  visibility: visible;
+}
+
+/*# sourceMappingURL=markets.css.map */
